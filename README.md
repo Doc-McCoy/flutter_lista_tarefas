@@ -1,6 +1,9 @@
 # Lista de Tarefas
 
 Famoso e básico "to-do-list" mobile.
+
+Neste projeto, é possível adicionar itens a lista, remover itens deslizando os mesmos para a direita, marcar itens como "feito" clicando neles, atualizar a lista, deslizando a mesma para baixo, assim os item já checados ficam sempre por último.
+
 Desenvolvido no Flutter.
 
 Quarto projeto [DESTE](https://www.udemy.com/curso-completo-flutter-app-android-ios/) curso na Udemy.
