@@ -1,15 +1,25 @@
-# lista_tarefas
+# Lista de Tarefas
 
-A new Flutter application.
+Famoso e básico "to-do-list" mobile.
+Desenvolvido no Flutter.
 
-## Getting Started
+Quarto projeto [DESTE](https://www.udemy.com/curso-completo-flutter-app-android-ios/) curso na Udemy.
 
-This project is a starting point for a Flutter application.
+## Conteúdo ensinado
 
-A few resources to get you started if this is your first Flutter project:
+Neste projeto foram vistos os seguintes tópicos:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- ListView
+- SnackBar
+- Dismissible
+- ListTile
+- CircleAvatar
+- CheckBoxListTile
+- RefreshIndicator
+- Sort
+- Armazenamento JSON
+
+O código do projeto fica em `lib/main.dart`
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
